@@ -1,2 +1,2 @@
 # Bertoti
-Disciplina Integração Humano Computador
+Disciplina Interação Humano Computador
